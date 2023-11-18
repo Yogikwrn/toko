@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>welcome</h1>
-    <h2>selamat datang di toko</h2>
+    <h2>selamat datang di toko kami</h2>
     
 </body>
 </html>
